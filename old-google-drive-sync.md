@@ -17,3 +17,4 @@ For PCs:
  - Delete the folder titled “Drive”.
  - Start the old the desktop sync client called "Google Drive".
  
+![Mac OS X error message for old Google Drive Sync client out of date](old-google-drive-sync-error.png)
